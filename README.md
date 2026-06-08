@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌩️ **Aspiring Cloud Engineer**
+- 🌩️ **Aspiring Cloud & DevOps Engineer**
 - 🔧 Currently learning **Azure, AWS, CI/CD, Docker, Jenkins, Kubernetes & Backend Development**
 - 💻 Passionate about **Automation, Cloud Infrastructure & Scalable Systems**
 - 👯 Open to collaborate on **Cloud / DevOps / Backend Projects**
