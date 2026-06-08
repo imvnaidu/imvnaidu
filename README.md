@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-- 🌩️ **Associate Cloud Consultant**
-- 🔧 Currently learning **Azure, CI/CD, Docker, Kubernetes & Backend Development**
+- 🌩️ **Aspiring Cloud Engineer**
+- 🔧 Currently learning **Azure, AWS, CI/CD, Docker, Jenkins, Kubernetes & Backend Development**
 - 💻 Passionate about **Automation, Cloud Infrastructure & Scalable Systems**
 - 👯 Open to collaborate on **Cloud / DevOps / Backend Projects**
 - 📚 Always learning and improving technical skills
